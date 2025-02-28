@@ -1,0 +1,1 @@
+Create a Blog API, using express.js, passport.js, JWT.
