@@ -1,0 +1,1 @@
+Create a Blog API, using express.js, passport.js, JWT and React and Vite for the frontend.

@@ -1,1 +1,0 @@
-Create the froned for the blog API using REACT and VITE.
